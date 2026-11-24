@@ -25,7 +25,7 @@ The game first uses the [battle ontology](battle_ontology.md) to decide the roun
 
 ## Prompt description
 
-The prompt asked me to extend the existing zombie simulation so the player can enter starting counts for both sides and choose one of up to four weapons for the humans. It asked for a simple system where stronger weapons increase the probability of killing zombies. It also asked for the code to be named Prototype 2 and for a document explaining the changes, the problems they address, and the prompt behind them.
+The prompt asked to extend the existing zombie simulation so the player can enter starting counts for both sides and choose one of up to four weapons for the humans. It asked for a simple system where stronger weapons increase the probability of killing zombies. It also asked for the code to be named Prototype 2 and for a document explaining the changes, the problems they address, and the prompt behind them.
 
 ## Run the prototype
 
